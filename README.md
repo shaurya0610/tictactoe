@@ -18,8 +18,8 @@ This is a modern, fully responsive Tic Tac Toe game built with **React**, **Type
 
 ## 📸 Preview
 
-<img src="/ttt_configuration.png" alt="Tic Tac Toe Grid Configuration" width="600"/>
-<img src="/ttt_game.png" alt="Tic Tac Toe Game" width="600"/>
+<img src="/public/ttt_configuration.png" alt="Tic Tac Toe Grid Configuration" width="600"/>
+<img src="/public/ttt_game.png" alt="Tic Tac Toe Game" width="600"/>
 
 ## 🚀 Getting Started
 
