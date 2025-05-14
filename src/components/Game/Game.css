@@ -1,19 +1,11 @@
 .board {
-    /* 1. turn the board into a grid */
     display: grid;
-    /* Basic CSS Grid container */
     grid-template-columns: repeat(var(--size, 5), 60px);
-    /* N columns of 60px each */
     gap: 4px;
-    /* 4px "gutters" between rows & columns */
-    /* 2. dark background shows through the gaps */
-    /* background-color: #333; */
     padding: 4px;
-    /* padding matches gap so the outer border is full-thickness */
 }
 
 .square {
-    /* 3. white "tiles" fill each grid cell */
     width: 60px;
     height: 60px;
     color: #000;
