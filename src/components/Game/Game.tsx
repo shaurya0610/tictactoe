@@ -47,6 +47,7 @@ export default function Game() {
 
         if (!size || !winLen) return;
 
+        void isPending;
         startTransition(() => {
             // Make the move
             const next = board.slice();

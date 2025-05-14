@@ -3,7 +3,6 @@ import './App.css'
 import {
   Card,
   CardContent,
-  CardDescription,
   CardFooter,
   CardHeader,
   CardTitle,
@@ -19,7 +18,6 @@ function App() {
         <Card>
           <CardHeader>
             <CardTitle className="text-3xl text-center">Tic Tac Toe</CardTitle>
-            {/* <CardDescription>Card Description</CardDescription> */}
           </CardHeader>
           <CardContent>
             {/* <p>Card Content</p> */}
